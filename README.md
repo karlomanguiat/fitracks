@@ -2,11 +2,11 @@
 
 Fit UP
 
-&lt;Fit UP is a web application which tracks the calorie spent in food and water intake of scholars of the University of the Philippines.>
+&lt;Fit UP is a web application which tracks the daily, weekly, or monthly calorie spent in food and water intake for a fitter and healthier scholars of the University of the Philippines.>
 
 &lt;Group Number : 4> 
 
-Aguilana, Trina
+- Aguilana, Trina
 Manguiat, Glenn Karlo
 Villanueva, Ian 
 
