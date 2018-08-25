@@ -1,6 +1,6 @@
 ## &lt; Insert Tentative Title> 
 
-&lt;**_&lt; Insert Tentative Title>_** is a web application which tracks the daily, weekly, or monthly calorie spent in food and water intake for a fitter and healthier scholars of the University of the Philippines.>
+&lt;**_ Insert Tentative Title>_** is a web application which tracks the daily, weekly, or monthly calorie spent in food and water intake for a fitter and healthier scholars of the University of the Philippines.>
 
 &lt;Group Number : 4> 
 
