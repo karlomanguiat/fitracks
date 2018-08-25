@@ -1,8 +1,8 @@
 ## &lt; Insert Tentative Title> 
 
-**_&lt;Insert Tentative Title>_** is a web application which tracks the daily, weekly, or monthly calorie spent in food and water intake for a fitter and healthier scholars of the University of the Philippines.>
+**_&lt;Insert Tentative Title>_** is a web application which tracks the daily, weekly, or monthly calorie spent in food and water intake for a fitter and healthier scholars of the University of the Philippines.
 
-&lt;Group Number : 4> 
+Group Number : &lt;4> 
 
 - Aguilana, Trina
 - Manguiat, Glenn Karlo
