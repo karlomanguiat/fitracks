@@ -1,5 +1,3 @@
-# fitup
-
 ## Fit UP
 
 &lt;**_Fit UP_** is a web application which tracks the daily, weekly, or monthly calorie spent in food and water intake for a fitter and healthier scholars of the University of the Philippines.>
